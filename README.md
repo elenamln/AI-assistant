@@ -10,11 +10,16 @@ Why a starfish? Why not! The starfish represents intelligence in a unique, non-h
 
 # Features
 
-🪸 Natural Language Processing: Powered by Gemini to handle complex queries and commands.
+🪸 Natural Language Processing: Powered by Gemini to handle complex queries and commands. 
+
 🪸 Friendly Starfish UI: The assistant appears as a starfish, offering a playful, marine-themed interface.
+
 🪸 Task Management: Ask the starfish to set reminders, send emails, and more.
+
 🪸 Multi-Tasking: Your starfish can handle a variety of tasks simultaneously without breaking a digital sweat.
+
 🪸 Customization: Personalize the appearance and voice of your starfish assistant.
+
 🪸 Interactive Dialogue: Engage in real-time conversations, like you're chatting with a helpful underwater friend!
 
 # Usage
@@ -24,12 +29,16 @@ Once the app is running, interact with your starfish assistant through the inter
 Examples of things you can ask your assistant:
 
 "Starfish, what's the weather like today?"
+
 "What's the capital of Japan?"
+
 "Can you play some music for me?"
 
 # Technologies
 
 ⭐ Flutter: Cross-platform UI framework for building the app.
+
 ⭐ Gemini: Language model for AI-driven conversations and task handling.
+
 ⭐ Dart: Programming language used to develop the app.
 
