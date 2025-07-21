@@ -2,6 +2,8 @@
 
 Welcome to AI Starfish Assistant! This is a fun and interactive AI assistant built using Flutter with Gemini integration, designed to assist you with a variety of tasks while providing a unique, underwater-inspired user experience. Think of it as your helpful sea creature guiding you through the digital ocean!
 
+⚠️ Work in progress: This app is under active development: I would like to add  more functionalities to this application...
+
 # Overview
 
 The AI Starfish Assistant combines the power of Gemini (an advanced language model API) with the smooth, interactive interface built with Flutter. The assistant, themed as a starfish, has a quirky and friendly personality, ready to assist you with tasks ranging from answering questions to managing your calendar and reminders.
